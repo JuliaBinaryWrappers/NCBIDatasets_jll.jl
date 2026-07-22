@@ -1,0 +1,70 @@
+[[NCBIDatasets]]
+arch = "aarch64"
+git-tree-sha1 = "3b21a73f5548c984694a550525d632a32950b97e"
+os = "macos"
+
+    [[NCBIDatasets.download]]
+    sha256 = "3b00026bfc7ca1c1d3f5115d04914e112462cff29b30cf37027d207c48f3b384"
+    url = "https://github.com/JuliaBinaryWrappers/NCBIDatasets_jll.jl/releases/download/NCBIDatasets-v18.32.0+0/NCBIDatasets.v18.32.0.aarch64-apple-darwin.tar.gz"
+[[NCBIDatasets]]
+arch = "aarch64"
+git-tree-sha1 = "6b2bf84294f551f5f045798272c0db064f73a0ca"
+libc = "glibc"
+os = "linux"
+
+    [[NCBIDatasets.download]]
+    sha256 = "49cc33f0b6161f0ca64be64bd88b8e3257b855e3a68abad0982df64d6c844742"
+    url = "https://github.com/JuliaBinaryWrappers/NCBIDatasets_jll.jl/releases/download/NCBIDatasets-v18.32.0+0/NCBIDatasets.v18.32.0.aarch64-linux-gnu.tar.gz"
+[[NCBIDatasets]]
+arch = "aarch64"
+git-tree-sha1 = "6b2bf84294f551f5f045798272c0db064f73a0ca"
+libc = "musl"
+os = "linux"
+
+    [[NCBIDatasets.download]]
+    sha256 = "49cc33f0b6161f0ca64be64bd88b8e3257b855e3a68abad0982df64d6c844742"
+    url = "https://github.com/JuliaBinaryWrappers/NCBIDatasets_jll.jl/releases/download/NCBIDatasets-v18.32.0+0/NCBIDatasets.v18.32.0.aarch64-linux-musl.tar.gz"
+[[NCBIDatasets]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "fba7d5ca913a506ba92134f7fb41553fb8d1af5e"
+libc = "glibc"
+os = "linux"
+
+    [[NCBIDatasets.download]]
+    sha256 = "b17b763f6d42d76ccbd12ff1633091907a09a8bb8905a17215bc635348390cf0"
+    url = "https://github.com/JuliaBinaryWrappers/NCBIDatasets_jll.jl/releases/download/NCBIDatasets-v18.32.0+0/NCBIDatasets.v18.32.0.armv7l-linux-gnueabihf.tar.gz"
+[[NCBIDatasets]]
+arch = "x86_64"
+git-tree-sha1 = "3b21a73f5548c984694a550525d632a32950b97e"
+os = "macos"
+
+    [[NCBIDatasets.download]]
+    sha256 = "3b00026bfc7ca1c1d3f5115d04914e112462cff29b30cf37027d207c48f3b384"
+    url = "https://github.com/JuliaBinaryWrappers/NCBIDatasets_jll.jl/releases/download/NCBIDatasets-v18.32.0+0/NCBIDatasets.v18.32.0.x86_64-apple-darwin.tar.gz"
+[[NCBIDatasets]]
+arch = "x86_64"
+git-tree-sha1 = "1d70548f2a67ea6f6094ac65901423f45cd2b27d"
+libc = "glibc"
+os = "linux"
+
+    [[NCBIDatasets.download]]
+    sha256 = "fcbd381b1ebfb428c39d9c0155f75d5834e801b93b028dc506e4ff486623fb37"
+    url = "https://github.com/JuliaBinaryWrappers/NCBIDatasets_jll.jl/releases/download/NCBIDatasets-v18.32.0+0/NCBIDatasets.v18.32.0.x86_64-linux-gnu.tar.gz"
+[[NCBIDatasets]]
+arch = "x86_64"
+git-tree-sha1 = "1d70548f2a67ea6f6094ac65901423f45cd2b27d"
+libc = "musl"
+os = "linux"
+
+    [[NCBIDatasets.download]]
+    sha256 = "fcbd381b1ebfb428c39d9c0155f75d5834e801b93b028dc506e4ff486623fb37"
+    url = "https://github.com/JuliaBinaryWrappers/NCBIDatasets_jll.jl/releases/download/NCBIDatasets-v18.32.0+0/NCBIDatasets.v18.32.0.x86_64-linux-musl.tar.gz"
+[[NCBIDatasets]]
+arch = "x86_64"
+git-tree-sha1 = "138a2cfa443d579a8a6b6c56f49ebd8d73442ae6"
+os = "windows"
+
+    [[NCBIDatasets.download]]
+    sha256 = "c0caf723d35b7c86f09377826bec12010b87b17cadd6eb209738b8d5574361cb"
+    url = "https://github.com/JuliaBinaryWrappers/NCBIDatasets_jll.jl/releases/download/NCBIDatasets-v18.32.0+0/NCBIDatasets.v18.32.0.x86_64-w64-mingw32.tar.gz"
